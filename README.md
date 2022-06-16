@@ -1,11 +1,11 @@
 # Joaquín García Mercado Luna
 ## Software Developer / Electronic Engineer ##
-![alt text](https://irazu.com.ar/images/perfil1.jpeg "Joaquin Garcia Photo")
+![My Photo](https://irazu.com.ar/images/perfil1.jpeg "Joaquin Garcia Photo")
 
-📧 jokogarcia@gmail.com
-🖁 [+4915739006833](tel://+4915739006833)
-⌂ Panoramastraße 11. 82211 Herrsching, Germany
-🔗 [joaquín-garcía-6876a71b](https://www.linkedin.com/in/joaqu%C3%ADn-garc%C3%ADa-6876a71b)
+- 📧 jokogarcia@gmail.com
+- 🖁 [+4915739006833](tel://+4915739006833)
+- ⌂ Panoramastraße 11. 82211 Herrsching, Germany
+- 🔗 [joaquín-garcía-6876a71b](https://www.linkedin.com/in/joaqu%C3%ADn-garc%C3%ADa-6876a71b)
 
 # About me #
 >"Give me five (minutes | hours | days) and we will get back to you" is the motto! Nobody knows everything right? I do not pretend otherwise, but am always keen to learn and hustle; and get to that deadline with something to show!
