@@ -1,11 +1,14 @@
 # Joaquin Garcia
 
 ## Software Developer / Electronic Engineer
-<img src="https://irazu.com.ar/images/perfil1.jpeg" alt="Joaquin Garcia Photo" style="width:150px"/>
-- 📧 jokogarcia@gmail.com | 🖁 [+4915739006833](tel://+491601593891) | 🏠 Merkstraße 12C. 82405 Wessobrunn, Germany | 🔗 Linkedin: [joaquín-garcía-6876a71b](https://www.linkedin.com/in/joaqu%C3%ADn-garc%C3%ADa-6876a71b) | 🔗 [https://github.com/jokogarcia/](https://github.com/jokogarcia/) | Full legal name: Joaquín García Mercado Luna
- 
-</div>
+<img src="https://irazu.com.ar/images/perfil1.jpeg" alt="Joaquin Garcia Photo" style="width:150px"></img>
 
+📧 jokogarcia@gmail.com |
+🖁 [+4915739006833](tel://+491601593891) |
+🏠 Merkstraße 12C. 82405 Wessobrunn, Germany |
+🔗 Linkedin: [joaquín-garcía-6876a71b](https://www.linkedin.com/in/joaqu%C3%ADn-garc%C3%ADa-6876a71b) |
+🔗 Github: [jokogarcia](https://github.com/jokogarcia/) |
+Full legal name: Joaquín García Mercado Luna
 
 # About me
 
