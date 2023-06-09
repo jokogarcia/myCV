@@ -14,8 +14,8 @@ Full legal name: Joaquín García Mercado Luna
 # About me
 
 > "Give me five (minutes | hours | days) and we will get back to you" is the motto! Nobody knows everything right? I do not pretend otherwise, but am always keen to learn and hustle; and get to that deadline with something to show!  
-> I'm most familiar with the .NET / C# environment, but can also dance around in Java, Kotlin, Python and JS/TS. I _can_ work alone, but I find I function best as part of a Scrum team. I'm an Electronic Engineer, which means I can program your app and design your next gadget.
-> I waws born and raised in La Rioja, Argentina: a land of wine, olives and really, really awesome software developers. I have been in Germany only since March 2022 so I am still finding my footing here, but loving it so far!  
+> I'm most familiar with the .NET / C# environment, but can also dance around in Java, Kotlin, Python and JS/TS. I _can_ work alone, but I find I function best as part of a Scrum team. I'm an Electronic Engineer, which means I can program your app and design your next gadget.  
+> I was born and raised in La Rioja, Argentina: a land of wine, olives and really, really awesome software developers. I have been in Germany only since March 2022 so I am still finding my footing here, but loving it so far!  
 > You may see look at my current job and think "Wait, this guy is not a developer!". Please scroll down a little further. There is a story behind why my current position is not software-related. I will be happy to share it in our upcoming interview :). 
 > Outside of work, I will not say no to a beer. I play guitar and sing badly with gusto! I've recently taken up cycling and going to the gym, not so much as a hobby but as a way to work on my health and wellbeing. 
 
